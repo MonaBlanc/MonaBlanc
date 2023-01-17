@@ -2,8 +2,6 @@
 #### I am a serious game developper apprentice
 ![I am a serious game developper apprentice](https://i.pinimg.com/originals/00/51/40/005140da70e95036cd28c0c60531a08b.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: REACT / JS / HTML / CSS / C / C# / C++ / JAVA / UNITY
 
 - 🔭 I’m currently working on this page. 
