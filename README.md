@@ -4,7 +4,7 @@
 
 Skills: REACT / JS / HTML / CSS / C / C# / C++ / JAVA / UNITY
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m doing the 100 Days of Code Challenge! (Python)
 - 🌱 I’m currently learning Unity and C# 
 - 📫 How to reach me: jacquemotkimberley@gmail.com 
 
