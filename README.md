@@ -12,5 +12,5 @@ Skills: REACT / HTML / CSS / C / C# / C++ / JAVA / UNITY
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonaBlanc)](https://github.com/anuraghazra/github-readme-stats)
 
-[<p align="center"><img src='iconmonstr-github-5-240.png' alt='github' height='40'>](https://github.com/MonaBlanc) [<img src='iconmonstr-linkedin-5-240.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kimberley-jacquemot//)  [<img src='iconmonstr-code-15-240.png' alt='website' height='40'></p>](https://monablanc.github.io/)  
+[<p align="center"><img src='iconmonstr-github-5-240.png' alt='github' height='40'>](https://github.com/MonaBlanc) [<img src='iconmonstr-linkedin-5-240.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kimberley-jacquemot/)  [<img src='iconmonstr-code-15-240.png' alt='website' height='40'></p>](https://monablanc.github.io/)  
   </div>
