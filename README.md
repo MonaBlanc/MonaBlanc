@@ -7,7 +7,7 @@
 Skills: REACT / HTML / CSS / C / C# / C++ / JAVA / UNITY
 
 🔭 I’m doing an engineering degree in software development and computer science<br>
-🌱 I’m currently learning Unity and C# <br>
+🌱 I’m currently learning Front-End Development <br>
 📫 How to reach me: jacquemotkimberley@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonaBlanc)](https://github.com/anuraghazra/github-readme-stats)
