@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi, Kimberley here !
-#### I am a serious game developper apprentice
+#### I am a software engineering student
 ![I am a serious game developper apprentice](https://i.pinimg.com/originals/00/51/40/005140da70e95036cd28c0c60531a08b.gif)
 
 Skills: REACT / HTML / CSS / C / C# / C++ / JAVA / UNITY
