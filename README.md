@@ -4,7 +4,7 @@
 #### I am a software engineering student
 ![I am a serious game developper apprentice](https://i.pinimg.com/originals/00/51/40/005140da70e95036cd28c0c60531a08b.gif)
 
-Skills: REACT / HTML / CSS / C / C# / C++ / JAVA / UNITY
+Skills: VUE / REACT / HTML / CSS / C / C# / C++ / JAVA / UNITY
 
 🔭 I’m doing an engineering degree in software development and computer science<br>
 🌱 I’m currently learning Front-End Development <br>
