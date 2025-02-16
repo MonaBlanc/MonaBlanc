@@ -1,12 +1,13 @@
 <div align="center">
 
 ### Hi, Kimberley here !
-#### I am a software engineering student
-![I am a serious game developper apprentice](https://i.pinimg.com/originals/00/51/40/005140da70e95036cd28c0c60531a08b.gif)
+#### I am a software engineer living in Japan
+![I am a serious game developper apprentice](https://64.media.tumblr.com/d85321cd874edc127c166dc4c5147e19/tumblr_oz4e1l5N7s1usc9y9o3_540.gif)
 
-Skills: VUE / REACT / HTML / CSS / C / C# / C++ / JAVA / UNITY
+Skills: VUE / REACT / CSS / C# / C++ / JAVA / UNITY / DOCKER / JENKINS / ANSIBLE / PYTHON
 
-🔭 I’m doing an engineering degree in software development and computer science<br>
+🔭 Working in Tools engineering including scripting and DevOps tools with Jenkins and GitLab
+🎓 I did an engineering degree in software development and computer science<br>
 🌱 I’m currently learning Front-End Development <br>
 📫 How to reach me: jacquemotkimberley@gmail.com 
 
